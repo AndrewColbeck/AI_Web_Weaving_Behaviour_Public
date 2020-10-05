@@ -1,0 +1,6 @@
+INITIAL_SPEED = 'initial_speed'
+MAX_SPEED = 'max_speed'
+MAX_FORCE = 'max_force'
+DECEL_FAST = 'decel_fast'
+DECEL_NORMAL = 'decel_normal'
+DECEL_SLOW = 'decel_slow'
