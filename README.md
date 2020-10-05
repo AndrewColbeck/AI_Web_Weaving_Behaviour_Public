@@ -1,6 +1,4 @@
 # AI Web Weaving Behaviour
-![Image of Web being weaved by AI simulation](https://gdurl.com/TdaP)
-
 Python Project simulating the Web Weaving behaviour of the common Spider.
 
 
